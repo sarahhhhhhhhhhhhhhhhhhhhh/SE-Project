@@ -22,7 +22,7 @@ Built on the BERTidRAAF resume-classification paper (Haddad & Omri, 2026), exten
 | Item | Requirement |
 |---|---|
 | OS | Windows 10/11 (the `.bat` scripts); Linux/macOS work with the manual steps |
-| Python | 3.10 or newer <<confirm your version>>, added to PATH |
+| Python | 3.13, added to PATH |
 | RAM | 16 GB recommended |
 | GPU | Optional. The default install is CPU-only; the `improved` model is faster with an NVIDIA GPU + CUDA PyTorch |
 | Disk | ~3 GB free (dependencies + model weights) |
@@ -93,8 +93,8 @@ This runs the recruiter app on your own machine using the already-trained models
 ### 1. Clone the repository
 
 ```bat
-git clone https://github.com/<<your-username>>/<<repo-name>>.git
-cd <<repo-name>>
+git clone https://github.com/sarahhhhhhhhhhhhhhhhhhhhh/SE-Project.git
+cd SE-Project
 ```
 
 ### 2. Download the trained model files
@@ -196,7 +196,6 @@ Upload a `.csv` file with one resume per row. Columns:
 | `skills` | `pandas; git; python; data modeling; airflow` | Separated by semicolons |
 | `resume_text` | `Mateo Jackson\nProfessional summary: ...` | Full plain-text resume. **Scored by all three models** |
 
-<<Confirm which columns are required and which are optional, e.g. "`resume_id` and `resume_text` are required; the rest are optional".>>
 
 Rows with a missing ID or empty `resume_text` are flagged and skipped instead of stopping the run.
 
@@ -232,8 +231,6 @@ The job description can be typed into the app or loaded from a JSON file. Exampl
 | `top_k` | How many top-ranked candidates to show in the report |
 | `target_category` | Resume category the job belongs to |
 
-<<Confirm that the app reads all of these fields. Delete any rows the app ignores.>>
-
 ## How the Fairness Audit Works
 
 - **FairCVdb targets:** fairness = min/max ratio of selection rates across groups. The default pass threshold is **0.8**.
@@ -245,7 +242,7 @@ The job description can be typed into the app or loaded from a JSON file. Exampl
 
 Datasets are **not** included in this repo. To retrain or re-run the audit, download them and place them as shown:
 
-- Kaggle 24-class Resume dataset → `data/raw/kaggle/` <<add link>>
+- Kaggle 24-class Resume dataset → `data/raw/kaggle/` https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset 
 - FairCVdb ([BiDAlab/FairCVtest](https://github.com/BiDAlab/FairCVtest)) → `data/raw/faircvdb/`
 
 ## Reproducing the Experiments (Google Colab notebook)
