@@ -1,0 +1,23 @@
+{
+  "title": "Data Engineer",
+  "department": "Analytics",
+  "location": "Mumbai (hybrid)",
+  "description": "Build and maintain batch and streaming data pipelines that feed our reporting and ML teams. Own pipeline reliability, data quality checks and documentation.",
+  "required_skills": [
+    "python",
+    "sql",
+    "etl",
+    "airflow",
+    "aws"
+  ],
+  "preferred_skills": [
+    "spark",
+    "kafka",
+    "docker",
+    "data modeling"
+  ],
+  "min_years_experience": 3,
+  "education": "Bachelor's in a technical field",
+  "top_k": 20,
+  "target_category": "INFORMATION-TECHNOLOGY"
+}

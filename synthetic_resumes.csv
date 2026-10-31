@@ -1,0 +1,601 @@
+resume_id,name,email,category,years_experience,education,skills,resume_text
+R0001,Jamal Silva,jamal.silva1@example.com,HR,2,B.Sc Information Technology,talent acquisition; payroll; onboarding; recruiting,"Jamal Silva
+Professional summary: Hr professional with 2 years of experience. Education: B.Sc Information Technology.
+Skills: talent acquisition, payroll, onboarding, recruiting.
+Experience: Worked on recruiting and talent acquisition projects; delivered 2 initiatives across teams."
+R0002,Mateo Jackson,mateo.jackson2@example.com,INFORMATION-TECHNOLOGY,11,MCA,pandas; git; python; data modeling; airflow,"Mateo Jackson
+Professional summary: Information Technology professional with 11 years of experience. Education: MCA.
+Skills: pandas, git, python, data modeling, airflow.
+Experience: Worked on data modeling and airflow projects; delivered 6 initiatives across teams."
+R0003,Priya Chen,priya.chen3@example.com,ACCOUNTANT,4,MBA,accounts payable; reconciliation; tax filing; tally,"Priya Chen
+Professional summary: Accountant professional with 4 years of experience. Education: MBA.
+Skills: accounts payable, reconciliation, tax filing, tally.
+Experience: Worked on accounts payable and accounts payable projects; delivered 8 initiatives across teams."
+R0004,Mateo Hassan,mateo.hassan4@example.com,INFORMATION-TECHNOLOGY,1,MBA,git; aws; python; etl; sql; airflow,"Mateo Hassan
+Professional summary: Information Technology professional with 1 years of experience. Education: MBA.
+Skills: git, aws, python, etl, sql, airflow.
+Experience: Worked on sql and aws projects; delivered 13 initiatives across teams."
+R0005,Anjali Kelly,anjali.kelly5@example.com,INFORMATION-TECHNOLOGY,4,M.Sc Data Science,aws; sql; airflow; linux; kafka,"Anjali Kelly
+Professional summary: Information Technology professional with 4 years of experience. Education: M.Sc Data Science.
+Skills: aws, sql, airflow, linux, kafka.
+Experience: Worked on airflow and airflow projects; delivered 5 initiatives across teams."
+R0006,Tamika Khan,tamika.khan6@example.com,HR,7,MCA,talent acquisition; recruiting; onboarding; payroll; hris; employee relations,"Tamika Khan
+Professional summary: Hr professional with 7 years of experience. Education: MCA.
+Skills: talent acquisition, recruiting, onboarding, payroll, hris, employee relations.
+Experience: Worked on employee relations and onboarding projects; delivered 15 initiatives across teams."
+R0007,Lakisha Chen,lakisha.chen7@example.com,ACCOUNTANT,4,MBA,reconciliation; gaap; tally; tax filing,"Lakisha Chen
+Professional summary: Accountant professional with 4 years of experience. Education: MBA.
+Skills: reconciliation, gaap, tally, tax filing.
+Experience: Worked on gaap and tax filing projects; delivered 8 initiatives across teams."
+R0008,Hannah Jackson,hannah.jackson8@example.com,DESIGNER,11,B.Com,ux research; photoshop; typography; figma; illustrator; prototyping,"Hannah Jackson
+Professional summary: Designer professional with 11 years of experience. Education: B.Com.
+Skills: ux research, photoshop, typography, figma, illustrator, prototyping.
+Experience: Worked on typography and photoshop projects; delivered 4 initiatives across teams."
+R0009,Arjun Jackson,arjun.jackson9@example.com,BUSINESS-DEVELOPMENT,10,B.Sc Information Technology,excel; crm; presentations; negotiation,"Arjun Jackson
+Professional summary: Business Development professional with 10 years of experience. Education: B.Sc Information Technology.
+Skills: excel, crm, presentations, negotiation.
+Experience: Worked on negotiation and negotiation projects; delivered 11 initiatives across teams."
+R0010,Sarah Jones,sarah.jones10@example.com,DESIGNER,12,B.E. Electronics,typography; prototyping; figma; illustrator; ux research; photoshop,"Sarah Jones
+Professional summary: Designer professional with 12 years of experience. Education: B.E. Electronics.
+Skills: typography, prototyping, figma, illustrator, ux research, photoshop.
+Experience: Worked on illustrator and prototyping projects; delivered 9 initiatives across teams."
+R0011,Sofia Wang,sofia.wang11@example.com,INFORMATION-TECHNOLOGY,10,MCA,pandas; spark; data modeling; sql; aws; kafka,"Sofia Wang
+Professional summary: Information Technology professional with 10 years of experience. Education: MCA.
+Skills: pandas, spark, data modeling, sql, aws, kafka.
+Experience: Worked on spark and data modeling projects; delivered 14 initiatives across teams."
+R0012,Greg Garcia,greg.garcia12@example.com,INFORMATION-TECHNOLOGY,3,B.Sc Information Technology,python; git; docker; etl; data modeling; pandas; spark; linux,"Greg Garcia
+Professional summary: Information Technology professional with 3 years of experience. Education: B.Sc Information Technology.
+Skills: python, git, docker, etl, data modeling, pandas, spark, linux.
+Experience: Worked on git and linux projects; delivered 15 initiatives across teams."
+R0013,Mei Silva,mei.silva13@example.com,INFORMATION-TECHNOLOGY,6,MCA,spark; data modeling; etl; pandas; linux; git; aws; docker,"Mei Silva
+Professional summary: Information Technology professional with 6 years of experience. Education: MCA.
+Skills: spark, data modeling, etl, pandas, linux, git, aws, docker.
+Experience: Worked on linux and aws projects; delivered 12 initiatives across teams."
+R0014,Sarah Walsh,sarah.walsh14@example.com,HR,1,MCA,hris; employee relations; recruiting; talent acquisition; payroll,"Sarah Walsh
+Professional summary: Hr professional with 1 years of experience. Education: MCA.
+Skills: hris, employee relations, recruiting, talent acquisition, payroll.
+Experience: Worked on payroll and employee relations projects; delivered 2 initiatives across teams."
+R0015,Sofia Garcia,sofia.garcia15@example.com,INFORMATION-TECHNOLOGY,1,B.E. Electronics,airflow; sql; python; docker,"Sofia Garcia
+Professional summary: Information Technology professional with 1 years of experience. Education: B.E. Electronics.
+Skills: airflow, sql, python, docker.
+Experience: Worked on docker and sql projects; delivered 10 initiatives across teams."
+R0016,Darnell Kelly,darnell.kelly16@example.com,INFORMATION-TECHNOLOGY,10,B.Com,git; etl; airflow; linux; kafka; sql; python; docker,"Darnell Kelly
+Professional summary: Information Technology professional with 10 years of experience. Education: B.Com.
+Skills: git, etl, airflow, linux, kafka, sql, python, docker.
+Experience: Worked on python and docker projects; delivered 15 initiatives across teams."
+R0017,Mei Chen,mei.chen17@example.com,HR,3,BA English,talent acquisition; recruiting; hris; onboarding; payroll; employee relations,"Mei Chen
+Professional summary: Hr professional with 3 years of experience. Education: BA English.
+Skills: talent acquisition, recruiting, hris, onboarding, payroll, employee relations.
+Experience: Worked on recruiting and onboarding projects; delivered 4 initiatives across teams."
+R0018,Mateo Walsh,mateo.walsh18@example.com,INFORMATION-TECHNOLOGY,10,B.Sc Information Technology,sql; etl; pandas; data modeling; python,"Mateo Walsh
+Professional summary: Information Technology professional with 10 years of experience. Education: B.Sc Information Technology.
+Skills: sql, etl, pandas, data modeling, python.
+Experience: Worked on etl and etl projects; delivered 8 initiatives across teams."
+R0019,Tamika Khan,tamika.khan19@example.com,BUSINESS-DEVELOPMENT,0,BA English,excel; salesforce; crm; negotiation; presentations,"Tamika Khan
+Professional summary: Business Development professional with 0 years of experience. Education: BA English.
+Skills: excel, salesforce, crm, negotiation, presentations.
+Experience: Worked on crm and negotiation projects; delivered 13 initiatives across teams."
+R0020,Hannah Silva,hannah.silva20@example.com,DESIGNER,0,B.Tech Computer Science,illustrator; ux research; photoshop; figma; prototyping; typography,"Hannah Silva
+Professional summary: Designer professional with 0 years of experience. Education: B.Tech Computer Science.
+Skills: illustrator, ux research, photoshop, figma, prototyping, typography.
+Experience: Worked on typography and photoshop projects; delivered 2 initiatives across teams."
+R0021,Wei Washington,wei.washington21@example.com,INFORMATION-TECHNOLOGY,1,MCA,pandas; data modeling; spark; python; sql; kafka; etl,"Wei Washington
+Professional summary: Information Technology professional with 1 years of experience. Education: MCA.
+Skills: pandas, data modeling, spark, python, sql, kafka, etl.
+Experience: Worked on python and pandas projects; delivered 11 initiatives across teams."
+R0022,Fatima Robinson,fatima.robinson22@example.com,INFORMATION-TECHNOLOGY,3,M.Sc Data Science,python; git; sql; kafka; docker; spark; linux; pandas,"Fatima Robinson
+Professional summary: Information Technology professional with 3 years of experience. Education: M.Sc Data Science.
+Skills: python, git, sql, kafka, docker, spark, linux, pandas.
+Experience: Worked on docker and pandas projects; delivered 7 initiatives across teams."
+R0023,Mei Lopez,mei.lopez23@example.com,DESIGNER,8,B.E. Electronics,figma; ux research; illustrator; prototyping,"Mei Lopez
+Professional summary: Designer professional with 8 years of experience. Education: B.E. Electronics.
+Skills: figma, ux research, illustrator, prototyping.
+Experience: Worked on ux research and illustrator projects; delivered 3 initiatives across teams."
+R0024,Sofia Walsh,sofia.walsh24@example.com,DESIGNER,9,B.E. Electronics,typography; photoshop; ux research; illustrator; prototyping,"Sofia Walsh
+Professional summary: Designer professional with 9 years of experience. Education: B.E. Electronics.
+Skills: typography, photoshop, ux research, illustrator, prototyping.
+Experience: Worked on typography and photoshop projects; delivered 6 initiatives across teams."
+R0025,Wei Chen,wei.chen25@example.com,INFORMATION-TECHNOLOGY,4,MBA,data modeling; pandas; spark; aws,"Wei Chen
+Professional summary: Information Technology professional with 4 years of experience. Education: MBA.
+Skills: data modeling, pandas, spark, aws.
+Experience: Worked on pandas and spark projects; delivered 10 initiatives across teams."
+R0026,Emily Miller,emily.miller26@example.com,BUSINESS-DEVELOPMENT,0,M.Sc Data Science,crm; presentations; salesforce; lead generation,"Emily Miller
+Professional summary: Business Development professional with 0 years of experience. Education: M.Sc Data Science.
+Skills: crm, presentations, salesforce, lead generation.
+Experience: Worked on salesforce and presentations projects; delivered 13 initiatives across teams."
+R0027,Brad Cohen,brad.cohen27@example.com,BUSINESS-DEVELOPMENT,13,M.Sc Data Science,market research; crm; presentations; excel; lead generation; salesforce; negotiation,"Brad Cohen
+Professional summary: Business Development professional with 13 years of experience. Education: M.Sc Data Science.
+Skills: market research, crm, presentations, excel, lead generation, salesforce, negotiation.
+Experience: Worked on excel and crm projects; delivered 2 initiatives across teams."
+R0028,Mateo Jackson,mateo.jackson28@example.com,INFORMATION-TECHNOLOGY,5,M.Sc Data Science,docker; airflow; linux; sql,"Mateo Jackson
+Professional summary: Information Technology professional with 5 years of experience. Education: M.Sc Data Science.
+Skills: docker, airflow, linux, sql.
+Experience: Worked on airflow and airflow projects; delivered 14 initiatives across teams."
+R0029,Jamal Robinson,jamal.robinson29@example.com,ACCOUNTANT,2,B.Tech Computer Science,gaap; reconciliation; tally; tax filing; audit; accounts payable; excel,"Jamal Robinson
+Professional summary: Accountant professional with 2 years of experience. Education: B.Tech Computer Science.
+Skills: gaap, reconciliation, tally, tax filing, audit, accounts payable, excel.
+Experience: Worked on excel and tax filing projects; delivered 5 initiatives across teams."
+R0030,Sarah Khan,sarah.khan30@example.com,INFORMATION-TECHNOLOGY,6,B.Sc Information Technology,docker; aws; airflow; git; python; data modeling; sql,"Sarah Khan
+Professional summary: Information Technology professional with 6 years of experience. Education: B.Sc Information Technology.
+Skills: docker, aws, airflow, git, python, data modeling, sql.
+Experience: Worked on sql and airflow projects; delivered 7 initiatives across teams."
+R0031,Fatima Iyer,fatima.iyer31@example.com,HR,14,B.E. Electronics,talent acquisition; hris; payroll; recruiting; employee relations,"Fatima Iyer
+Professional summary: Hr professional with 14 years of experience. Education: B.E. Electronics.
+Skills: talent acquisition, hris, payroll, recruiting, employee relations.
+Experience: Worked on talent acquisition and talent acquisition projects; delivered 11 initiatives across teams."
+R0032,Fatima Baker,fatima.baker32@example.com,INFORMATION-TECHNOLOGY,3,B.Com,kafka; git; pandas; sql; data modeling; aws,"Fatima Baker
+Professional summary: Information Technology professional with 3 years of experience. Education: B.Com.
+Skills: kafka, git, pandas, sql, data modeling, aws.
+Experience: Worked on kafka and data modeling projects; delivered 14 initiatives across teams."
+R0033,Jamal Hassan,jamal.hassan33@example.com,BUSINESS-DEVELOPMENT,5,B.E. Electronics,lead generation; salesforce; crm; excel; presentations,"Jamal Hassan
+Professional summary: Business Development professional with 5 years of experience. Education: B.E. Electronics.
+Skills: lead generation, salesforce, crm, excel, presentations.
+Experience: Worked on excel and crm projects; delivered 8 initiatives across teams."
+R0034,Hannah Hassan,hannah.hassan34@example.com,HR,9,B.Com,onboarding; talent acquisition; employee relations; payroll; hris; recruiting,"Hannah Hassan
+Professional summary: Hr professional with 9 years of experience. Education: B.Com.
+Skills: onboarding, talent acquisition, employee relations, payroll, hris, recruiting.
+Experience: Worked on hris and onboarding projects; delivered 6 initiatives across teams."
+R0035,Sofia Nair,sofia.nair35@example.com,INFORMATION-TECHNOLOGY,3,M.Sc Data Science,git; data modeling; docker; etl; pandas; airflow; linux,"Sofia Nair
+Professional summary: Information Technology professional with 3 years of experience. Education: M.Sc Data Science.
+Skills: git, data modeling, docker, etl, pandas, airflow, linux.
+Experience: Worked on airflow and git projects; delivered 6 initiatives across teams."
+R0036,Greg Garcia,greg.garcia36@example.com,BUSINESS-DEVELOPMENT,0,BA English,crm; negotiation; lead generation; presentations; excel; market research,"Greg Garcia
+Professional summary: Business Development professional with 0 years of experience. Education: BA English.
+Skills: crm, negotiation, lead generation, presentations, excel, market research.
+Experience: Worked on excel and crm projects; delivered 9 initiatives across teams."
+R0037,Jamal Jackson,jamal.jackson37@example.com,INFORMATION-TECHNOLOGY,14,MCA,airflow; kafka; etl; linux; data modeling; sql; docker; python,"Jamal Jackson
+Professional summary: Information Technology professional with 14 years of experience. Education: MCA.
+Skills: airflow, kafka, etl, linux, data modeling, sql, docker, python.
+Experience: Worked on etl and python projects; delivered 2 initiatives across teams."
+R0038,Anjali Wang,anjali.wang38@example.com,BUSINESS-DEVELOPMENT,12,B.Com,salesforce; negotiation; excel; lead generation,"Anjali Wang
+Professional summary: Business Development professional with 12 years of experience. Education: B.Com.
+Skills: salesforce, negotiation, excel, lead generation.
+Experience: Worked on lead generation and negotiation projects; delivered 13 initiatives across teams."
+R0039,Lakisha Hassan,lakisha.hassan39@example.com,ACCOUNTANT,7,MCA,tally; reconciliation; accounts payable; tax filing; audit; gaap; excel,"Lakisha Hassan
+Professional summary: Accountant professional with 7 years of experience. Education: MCA.
+Skills: tally, reconciliation, accounts payable, tax filing, audit, gaap, excel.
+Experience: Worked on accounts payable and accounts payable projects; delivered 7 initiatives across teams."
+R0040,Priya Chen,priya.chen40@example.com,DESIGNER,11,B.Sc Information Technology,photoshop; illustrator; prototyping; ux research,"Priya Chen
+Professional summary: Designer professional with 11 years of experience. Education: B.Sc Information Technology.
+Skills: photoshop, illustrator, prototyping, ux research.
+Experience: Worked on ux research and ux research projects; delivered 7 initiatives across teams."
+R0041,Emily Kelly,emily.kelly41@example.com,BUSINESS-DEVELOPMENT,7,B.E. Electronics,crm; negotiation; salesforce; market research; lead generation; excel; presentations,"Emily Kelly
+Professional summary: Business Development professional with 7 years of experience. Education: B.E. Electronics.
+Skills: crm, negotiation, salesforce, market research, lead generation, excel, presentations.
+Experience: Worked on presentations and market research projects; delivered 15 initiatives across teams."
+R0042,Darnell Nair,darnell.nair42@example.com,DESIGNER,4,B.Tech Computer Science,prototyping; illustrator; photoshop; ux research; figma,"Darnell Nair
+Professional summary: Designer professional with 4 years of experience. Education: B.Tech Computer Science.
+Skills: prototyping, illustrator, photoshop, ux research, figma.
+Experience: Worked on ux research and photoshop projects; delivered 12 initiatives across teams."
+R0043,Tamika Cohen,tamika.cohen43@example.com,HR,14,B.Tech Computer Science,talent acquisition; onboarding; employee relations; recruiting; payroll,"Tamika Cohen
+Professional summary: Hr professional with 14 years of experience. Education: B.Tech Computer Science.
+Skills: talent acquisition, onboarding, employee relations, recruiting, payroll.
+Experience: Worked on talent acquisition and recruiting projects; delivered 4 initiatives across teams."
+R0044,Sarah Miller,sarah.miller44@example.com,ACCOUNTANT,7,B.Com,gaap; tally; tax filing; excel; accounts payable,"Sarah Miller
+Professional summary: Accountant professional with 7 years of experience. Education: B.Com.
+Skills: gaap, tally, tax filing, excel, accounts payable.
+Experience: Worked on tax filing and excel projects; delivered 6 initiatives across teams."
+R0045,Greg Walsh,greg.walsh45@example.com,ACCOUNTANT,12,MCA,gaap; excel; audit; accounts payable; reconciliation; tax filing; tally,"Greg Walsh
+Professional summary: Accountant professional with 12 years of experience. Education: MCA.
+Skills: gaap, excel, audit, accounts payable, reconciliation, tax filing, tally.
+Experience: Worked on excel and tally projects; delivered 2 initiatives across teams."
+R0046,Anjali Khan,anjali.khan46@example.com,HR,3,MBA,onboarding; employee relations; recruiting; payroll,"Anjali Khan
+Professional summary: Hr professional with 3 years of experience. Education: MBA.
+Skills: onboarding, employee relations, recruiting, payroll.
+Experience: Worked on employee relations and onboarding projects; delivered 14 initiatives across teams."
+R0047,Mei Washington,mei.washington47@example.com,ACCOUNTANT,6,MCA,gaap; audit; accounts payable; tally; tax filing; reconciliation,"Mei Washington
+Professional summary: Accountant professional with 6 years of experience. Education: MCA.
+Skills: gaap, audit, accounts payable, tally, tax filing, reconciliation.
+Experience: Worked on gaap and reconciliation projects; delivered 14 initiatives across teams."
+R0048,Sarah Walsh,sarah.walsh48@example.com,INFORMATION-TECHNOLOGY,8,B.Com,sql; git; python; docker; kafka; pandas; spark; linux,"Sarah Walsh
+Professional summary: Information Technology professional with 8 years of experience. Education: B.Com.
+Skills: sql, git, python, docker, kafka, pandas, spark, linux.
+Experience: Worked on linux and git projects; delivered 8 initiatives across teams."
+R0049,Darnell Cohen,darnell.cohen49@example.com,DESIGNER,7,B.E. Electronics,ux research; photoshop; illustrator; figma; prototyping; typography,"Darnell Cohen
+Professional summary: Designer professional with 7 years of experience. Education: B.E. Electronics.
+Skills: ux research, photoshop, illustrator, figma, prototyping, typography.
+Experience: Worked on illustrator and photoshop projects; delivered 15 initiatives across teams."
+R0050,Emily Nair,emily.nair50@example.com,DESIGNER,5,MBA,ux research; photoshop; illustrator; typography; prototyping,"Emily Nair
+Professional summary: Designer professional with 5 years of experience. Education: MBA.
+Skills: ux research, photoshop, illustrator, typography, prototyping.
+Experience: Worked on photoshop and typography projects; delivered 5 initiatives across teams."
+R0051,Lakisha Garcia,lakisha.garcia51@example.com,INFORMATION-TECHNOLOGY,3,B.Com,docker; aws; git; linux; python; pandas,"Lakisha Garcia
+Professional summary: Information Technology professional with 3 years of experience. Education: B.Com.
+Skills: docker, aws, git, linux, python, pandas.
+Experience: Worked on linux and python projects; delivered 14 initiatives across teams."
+R0052,Carlos Hassan,carlos.hassan52@example.com,INFORMATION-TECHNOLOGY,6,MBA,linux; etl; data modeling; python; sql; spark; git,"Carlos Hassan
+Professional summary: Information Technology professional with 6 years of experience. Education: MBA.
+Skills: linux, etl, data modeling, python, sql, spark, git.
+Experience: Worked on python and sql projects; delivered 10 initiatives across teams."
+R0053,Mei Miller,mei.miller53@example.com,INFORMATION-TECHNOLOGY,11,B.Sc Information Technology,docker; data modeling; etl; aws; pandas; spark; sql; python,"Mei Miller
+Professional summary: Information Technology professional with 11 years of experience. Education: B.Sc Information Technology.
+Skills: docker, data modeling, etl, aws, pandas, spark, sql, python.
+Experience: Worked on etl and aws projects; delivered 5 initiatives across teams."
+R0054,Carlos Kelly,carlos.kelly54@example.com,HR,4,M.Sc Data Science,talent acquisition; hris; payroll; recruiting; employee relations,"Carlos Kelly
+Professional summary: Hr professional with 4 years of experience. Education: M.Sc Data Science.
+Skills: talent acquisition, hris, payroll, recruiting, employee relations.
+Experience: Worked on payroll and talent acquisition projects; delivered 13 initiatives across teams."
+R0055,Rohan Jones,rohan.jones55@example.com,BUSINESS-DEVELOPMENT,10,B.Tech Computer Science,crm; excel; market research; lead generation; salesforce; presentations,"Rohan Jones
+Professional summary: Business Development professional with 10 years of experience. Education: B.Tech Computer Science.
+Skills: crm, excel, market research, lead generation, salesforce, presentations.
+Experience: Worked on salesforce and market research projects; delivered 9 initiatives across teams."
+R0056,Rohan Washington,rohan.washington56@example.com,BUSINESS-DEVELOPMENT,6,B.Tech Computer Science,negotiation; crm; lead generation; salesforce; presentations; market research,"Rohan Washington
+Professional summary: Business Development professional with 6 years of experience. Education: B.Tech Computer Science.
+Skills: negotiation, crm, lead generation, salesforce, presentations, market research.
+Experience: Worked on crm and crm projects; delivered 14 initiatives across teams."
+R0057,Sofia Robinson,sofia.robinson57@example.com,BUSINESS-DEVELOPMENT,12,BA English,crm; negotiation; excel; salesforce; lead generation; market research,"Sofia Robinson
+Professional summary: Business Development professional with 12 years of experience. Education: BA English.
+Skills: crm, negotiation, excel, salesforce, lead generation, market research.
+Experience: Worked on salesforce and excel projects; delivered 15 initiatives across teams."
+R0058,Mei Khan,mei.khan58@example.com,BUSINESS-DEVELOPMENT,10,B.Sc Information Technology,lead generation; market research; presentations; crm; excel; salesforce; negotiation,"Mei Khan
+Professional summary: Business Development professional with 10 years of experience. Education: B.Sc Information Technology.
+Skills: lead generation, market research, presentations, crm, excel, salesforce, negotiation.
+Experience: Worked on market research and market research projects; delivered 4 initiatives across teams."
+R0059,Carlos Hassan,carlos.hassan59@example.com,BUSINESS-DEVELOPMENT,0,B.E. Electronics,crm; salesforce; presentations; market research; negotiation,"Carlos Hassan
+Professional summary: Business Development professional with 0 years of experience. Education: B.E. Electronics.
+Skills: crm, salesforce, presentations, market research, negotiation.
+Experience: Worked on market research and crm projects; delivered 12 initiatives across teams."
+R0060,Priya Khan,priya.khan60@example.com,INFORMATION-TECHNOLOGY,3,M.Sc Data Science,linux; git; airflow; kafka; sql; aws,"Priya Khan
+Professional summary: Information Technology professional with 3 years of experience. Education: M.Sc Data Science.
+Skills: linux, git, airflow, kafka, sql, aws.
+Experience: Worked on linux and linux projects; delivered 4 initiatives across teams."
+R0061,Sofia Silva,sofia.silva61@example.com,ACCOUNTANT,4,BA English,tax filing; gaap; accounts payable; tally; audit; reconciliation,"Sofia Silva
+Professional summary: Accountant professional with 4 years of experience. Education: BA English.
+Skills: tax filing, gaap, accounts payable, tally, audit, reconciliation.
+Experience: Worked on tally and tax filing projects; delivered 11 initiatives across teams."
+R0062,Hannah Cohen,hannah.cohen62@example.com,INFORMATION-TECHNOLOGY,10,B.Tech Computer Science,data modeling; docker; git; aws; python; etl; sql,"Hannah Cohen
+Professional summary: Information Technology professional with 10 years of experience. Education: B.Tech Computer Science.
+Skills: data modeling, docker, git, aws, python, etl, sql.
+Experience: Worked on sql and etl projects; delivered 15 initiatives across teams."
+R0063,Fatima Iyer,fatima.iyer63@example.com,INFORMATION-TECHNOLOGY,14,B.Com,spark; etl; pandas; linux,"Fatima Iyer
+Professional summary: Information Technology professional with 14 years of experience. Education: B.Com.
+Skills: spark, etl, pandas, linux.
+Experience: Worked on linux and spark projects; delivered 9 initiatives across teams."
+R0064,Rohan Hassan,rohan.hassan64@example.com,INFORMATION-TECHNOLOGY,11,B.Com,docker; linux; sql; spark; data modeling; airflow,"Rohan Hassan
+Professional summary: Information Technology professional with 11 years of experience. Education: B.Com.
+Skills: docker, linux, sql, spark, data modeling, airflow.
+Experience: Worked on data modeling and docker projects; delivered 9 initiatives across teams."
+R0065,Mateo Patel,mateo.patel65@example.com,INFORMATION-TECHNOLOGY,13,B.Com,docker; sql; kafka; pandas; python; data modeling,"Mateo Patel
+Professional summary: Information Technology professional with 13 years of experience. Education: B.Com.
+Skills: docker, sql, kafka, pandas, python, data modeling.
+Experience: Worked on docker and sql projects; delivered 10 initiatives across teams."
+R0066,Omar Patel,omar.patel66@example.com,INFORMATION-TECHNOLOGY,14,BA English,linux; etl; python; airflow; aws; data modeling; sql,"Omar Patel
+Professional summary: Information Technology professional with 14 years of experience. Education: BA English.
+Skills: linux, etl, python, airflow, aws, data modeling, sql.
+Experience: Worked on linux and linux projects; delivered 12 initiatives across teams."
+R0067,Mateo Jackson,mateo.jackson67@example.com,HR,0,B.Sc Information Technology,talent acquisition; onboarding; payroll; employee relations,"Mateo Jackson
+Professional summary: Hr professional with 0 years of experience. Education: B.Sc Information Technology.
+Skills: talent acquisition, onboarding, payroll, employee relations.
+Experience: Worked on onboarding and talent acquisition projects; delivered 9 initiatives across teams."
+R0068,Rohan Nair,rohan.nair68@example.com,DESIGNER,13,MCA,photoshop; ux research; typography; prototyping; illustrator; figma,"Rohan Nair
+Professional summary: Designer professional with 13 years of experience. Education: MCA.
+Skills: photoshop, ux research, typography, prototyping, illustrator, figma.
+Experience: Worked on prototyping and illustrator projects; delivered 4 initiatives across teams."
+R0069,Emily Hassan,emily.hassan69@example.com,INFORMATION-TECHNOLOGY,13,B.E. Electronics,pandas; spark; sql; aws; kafka; linux; data modeling; etl,"Emily Hassan
+Professional summary: Information Technology professional with 13 years of experience. Education: B.E. Electronics.
+Skills: pandas, spark, sql, aws, kafka, linux, data modeling, etl.
+Experience: Worked on etl and sql projects; delivered 9 initiatives across teams."
+R0070,Mei Garcia,mei.garcia70@example.com,BUSINESS-DEVELOPMENT,13,B.Com,lead generation; market research; presentations; salesforce; negotiation; excel,"Mei Garcia
+Professional summary: Business Development professional with 13 years of experience. Education: B.Com.
+Skills: lead generation, market research, presentations, salesforce, negotiation, excel.
+Experience: Worked on market research and salesforce projects; delivered 2 initiatives across teams."
+R0071,Hannah Miller,hannah.miller71@example.com,INFORMATION-TECHNOLOGY,8,B.Sc Information Technology,data modeling; kafka; linux; spark; etl; python; sql,"Hannah Miller
+Professional summary: Information Technology professional with 8 years of experience. Education: B.Sc Information Technology.
+Skills: data modeling, kafka, linux, spark, etl, python, sql.
+Experience: Worked on sql and sql projects; delivered 9 initiatives across teams."
+R0072,Wei Robinson,wei.robinson72@example.com,INFORMATION-TECHNOLOGY,5,B.Sc Information Technology,python; spark; kafka; linux; sql; airflow; pandas,"Wei Robinson
+Professional summary: Information Technology professional with 5 years of experience. Education: B.Sc Information Technology.
+Skills: python, spark, kafka, linux, sql, airflow, pandas.
+Experience: Worked on pandas and kafka projects; delivered 15 initiatives across teams."
+R0073,Omar Garcia,omar.garcia73@example.com,HR,3,B.Sc Information Technology,employee relations; payroll; talent acquisition; hris; recruiting; onboarding,"Omar Garcia
+Professional summary: Hr professional with 3 years of experience. Education: B.Sc Information Technology.
+Skills: employee relations, payroll, talent acquisition, hris, recruiting, onboarding.
+Experience: Worked on hris and employee relations projects; delivered 14 initiatives across teams."
+R0074,Sarah Baker,sarah.baker74@example.com,HR,0,B.E. Electronics,employee relations; onboarding; payroll; recruiting,"Sarah Baker
+Professional summary: Hr professional with 0 years of experience. Education: B.E. Electronics.
+Skills: employee relations, onboarding, payroll, recruiting.
+Experience: Worked on payroll and payroll projects; delivered 8 initiatives across teams."
+R0075,Carlos Nair,carlos.nair75@example.com,INFORMATION-TECHNOLOGY,9,M.Sc Data Science,kafka; git; spark; linux; pandas; python; aws; airflow,"Carlos Nair
+Professional summary: Information Technology professional with 9 years of experience. Education: M.Sc Data Science.
+Skills: kafka, git, spark, linux, pandas, python, aws, airflow.
+Experience: Worked on linux and airflow projects; delivered 12 initiatives across teams."
+R0076,Brad Cohen,brad.cohen76@example.com,INFORMATION-TECHNOLOGY,7,B.E. Electronics,linux; python; etl; aws; spark; data modeling,"Brad Cohen
+Professional summary: Information Technology professional with 7 years of experience. Education: B.E. Electronics.
+Skills: linux, python, etl, aws, spark, data modeling.
+Experience: Worked on data modeling and aws projects; delivered 13 initiatives across teams."
+R0077,Brad Cohen,brad.cohen77@example.com,INFORMATION-TECHNOLOGY,9,B.E. Electronics,airflow; kafka; etl; sql; data modeling; git,"Brad Cohen
+Professional summary: Information Technology professional with 9 years of experience. Education: B.E. Electronics.
+Skills: airflow, kafka, etl, sql, data modeling, git.
+Experience: Worked on git and etl projects; delivered 2 initiatives across teams."
+R0078,Omar Garcia,omar.garcia78@example.com,DESIGNER,13,MBA,ux research; typography; figma; prototyping; illustrator; photoshop,"Omar Garcia
+Professional summary: Designer professional with 13 years of experience. Education: MBA.
+Skills: ux research, typography, figma, prototyping, illustrator, photoshop.
+Experience: Worked on typography and photoshop projects; delivered 5 initiatives across teams."
+R0079,Anjali Baker,anjali.baker79@example.com,HR,12,MBA,talent acquisition; onboarding; recruiting; payroll; employee relations; hris,"Anjali Baker
+Professional summary: Hr professional with 12 years of experience. Education: MBA.
+Skills: talent acquisition, onboarding, recruiting, payroll, employee relations, hris.
+Experience: Worked on hris and onboarding projects; delivered 3 initiatives across teams."
+R0080,Mateo Kelly,mateo.kelly80@example.com,DESIGNER,12,B.E. Electronics,illustrator; ux research; photoshop; figma; typography,"Mateo Kelly
+Professional summary: Designer professional with 12 years of experience. Education: B.E. Electronics.
+Skills: illustrator, ux research, photoshop, figma, typography.
+Experience: Worked on ux research and photoshop projects; delivered 15 initiatives across teams."
+R0081,Carlos Robinson,carlos.robinson81@example.com,DESIGNER,2,MBA,illustrator; typography; figma; photoshop; ux research,"Carlos Robinson
+Professional summary: Designer professional with 2 years of experience. Education: MBA.
+Skills: illustrator, typography, figma, photoshop, ux research.
+Experience: Worked on illustrator and photoshop projects; delivered 2 initiatives across teams."
+R0082,Brad Jones,brad.jones82@example.com,INFORMATION-TECHNOLOGY,13,MCA,etl; docker; aws; kafka,"Brad Jones
+Professional summary: Information Technology professional with 13 years of experience. Education: MCA.
+Skills: etl, docker, aws, kafka.
+Experience: Worked on kafka and etl projects; delivered 11 initiatives across teams."
+R0083,Omar Jackson,omar.jackson83@example.com,DESIGNER,14,B.Sc Information Technology,typography; prototyping; photoshop; illustrator; figma; ux research,"Omar Jackson
+Professional summary: Designer professional with 14 years of experience. Education: B.Sc Information Technology.
+Skills: typography, prototyping, photoshop, illustrator, figma, ux research.
+Experience: Worked on prototyping and typography projects; delivered 2 initiatives across teams."
+R0084,Mateo Jackson,mateo.jackson84@example.com,INFORMATION-TECHNOLOGY,5,M.Sc Data Science,sql; data modeling; airflow; pandas; spark; git; kafka,"Mateo Jackson
+Professional summary: Information Technology professional with 5 years of experience. Education: M.Sc Data Science.
+Skills: sql, data modeling, airflow, pandas, spark, git, kafka.
+Experience: Worked on pandas and git projects; delivered 3 initiatives across teams."
+R0085,Brad Jones,brad.jones85@example.com,ACCOUNTANT,13,MBA,tally; gaap; accounts payable; reconciliation; tax filing; audit; excel,"Brad Jones
+Professional summary: Accountant professional with 13 years of experience. Education: MBA.
+Skills: tally, gaap, accounts payable, reconciliation, tax filing, audit, excel.
+Experience: Worked on tax filing and audit projects; delivered 7 initiatives across teams."
+R0086,Wei Walsh,wei.walsh86@example.com,INFORMATION-TECHNOLOGY,10,B.Tech Computer Science,airflow; sql; etl; linux; data modeling; docker,"Wei Walsh
+Professional summary: Information Technology professional with 10 years of experience. Education: B.Tech Computer Science.
+Skills: airflow, sql, etl, linux, data modeling, docker.
+Experience: Worked on etl and sql projects; delivered 4 initiatives across teams."
+R0087,Priya Wang,priya.wang87@example.com,ACCOUNTANT,5,B.Tech Computer Science,gaap; audit; reconciliation; excel; accounts payable,"Priya Wang
+Professional summary: Accountant professional with 5 years of experience. Education: B.Tech Computer Science.
+Skills: gaap, audit, reconciliation, excel, accounts payable.
+Experience: Worked on reconciliation and audit projects; delivered 4 initiatives across teams."
+R0088,Carlos Cohen,carlos.cohen88@example.com,BUSINESS-DEVELOPMENT,5,MBA,crm; presentations; excel; negotiation; market research,"Carlos Cohen
+Professional summary: Business Development professional with 5 years of experience. Education: MBA.
+Skills: crm, presentations, excel, negotiation, market research.
+Experience: Worked on crm and presentations projects; delivered 6 initiatives across teams."
+R0089,Hannah Jones,hannah.jones89@example.com,INFORMATION-TECHNOLOGY,8,BA English,pandas; sql; linux; etl; data modeling; kafka; spark,"Hannah Jones
+Professional summary: Information Technology professional with 8 years of experience. Education: BA English.
+Skills: pandas, sql, linux, etl, data modeling, kafka, spark.
+Experience: Worked on data modeling and sql projects; delivered 11 initiatives across teams."
+R0090,Jamal Nair,jamal.nair90@example.com,INFORMATION-TECHNOLOGY,10,BA English,aws; etl; python; git; linux; kafka; airflow; docker,"Jamal Nair
+Professional summary: Information Technology professional with 10 years of experience. Education: BA English.
+Skills: aws, etl, python, git, linux, kafka, airflow, docker.
+Experience: Worked on etl and etl projects; delivered 7 initiatives across teams."
+R0091,Wei Lopez,wei.lopez91@example.com,BUSINESS-DEVELOPMENT,6,B.E. Electronics,negotiation; lead generation; market research; presentations,"Wei Lopez
+Professional summary: Business Development professional with 6 years of experience. Education: B.E. Electronics.
+Skills: negotiation, lead generation, market research, presentations.
+Experience: Worked on presentations and presentations projects; delivered 3 initiatives across teams."
+R0092,Anjali Garcia,anjali.garcia92@example.com,ACCOUNTANT,6,B.Com,accounts payable; excel; audit; reconciliation,"Anjali Garcia
+Professional summary: Accountant professional with 6 years of experience. Education: B.Com.
+Skills: accounts payable, excel, audit, reconciliation.
+Experience: Worked on audit and reconciliation projects; delivered 8 initiatives across teams."
+R0093,Priya Nair,priya.nair93@example.com,INFORMATION-TECHNOLOGY,5,B.Sc Information Technology,docker; kafka; data modeling; aws,"Priya Nair
+Professional summary: Information Technology professional with 5 years of experience. Education: B.Sc Information Technology.
+Skills: docker, kafka, data modeling, aws.
+Experience: Worked on docker and docker projects; delivered 3 initiatives across teams."
+R0094,Darnell Kelly,darnell.kelly94@example.com,INFORMATION-TECHNOLOGY,1,B.Com,spark; pandas; python; linux; docker; etl,"Darnell Kelly
+Professional summary: Information Technology professional with 1 years of experience. Education: B.Com.
+Skills: spark, pandas, python, linux, docker, etl.
+Experience: Worked on etl and spark projects; delivered 6 initiatives across teams."
+R0095,Jamal Kelly,jamal.kelly95@example.com,BUSINESS-DEVELOPMENT,3,MBA,crm; market research; presentations; negotiation; excel; salesforce,"Jamal Kelly
+Professional summary: Business Development professional with 3 years of experience. Education: MBA.
+Skills: crm, market research, presentations, negotiation, excel, salesforce.
+Experience: Worked on crm and presentations projects; delivered 11 initiatives across teams."
+R0096,Fatima Walsh,fatima.walsh96@example.com,INFORMATION-TECHNOLOGY,13,M.Sc Data Science,pandas; git; linux; data modeling; python; aws; docker,"Fatima Walsh
+Professional summary: Information Technology professional with 13 years of experience. Education: M.Sc Data Science.
+Skills: pandas, git, linux, data modeling, python, aws, docker.
+Experience: Worked on linux and aws projects; delivered 14 initiatives across teams."
+R0097,Emily Washington,emily.washington97@example.com,INFORMATION-TECHNOLOGY,2,MCA,docker; python; spark; git; kafka; linux,"Emily Washington
+Professional summary: Information Technology professional with 2 years of experience. Education: MCA.
+Skills: docker, python, spark, git, kafka, linux.
+Experience: Worked on git and git projects; delivered 9 initiatives across teams."
+R0098,Wei Baker,wei.baker98@example.com,INFORMATION-TECHNOLOGY,2,B.Sc Information Technology,aws; docker; git; sql; python; pandas,"Wei Baker
+Professional summary: Information Technology professional with 2 years of experience. Education: B.Sc Information Technology.
+Skills: aws, docker, git, sql, python, pandas.
+Experience: Worked on git and sql projects; delivered 12 initiatives across teams."
+R0099,Hannah Nair,hannah.nair99@example.com,INFORMATION-TECHNOLOGY,4,B.E. Electronics,etl; kafka; aws; airflow; sql; spark; pandas; python,"Hannah Nair
+Professional summary: Information Technology professional with 4 years of experience. Education: B.E. Electronics.
+Skills: etl, kafka, aws, airflow, sql, spark, pandas, python.
+Experience: Worked on etl and airflow projects; delivered 8 initiatives across teams."
+R0100,Priya Khan,priya.khan100@example.com,DESIGNER,12,B.E. Electronics,figma; photoshop; typography; illustrator,"Priya Khan
+Professional summary: Designer professional with 12 years of experience. Education: B.E. Electronics.
+Skills: figma, photoshop, typography, illustrator.
+Experience: Worked on typography and figma projects; delivered 2 initiatives across teams."
+R0101,Greg Jackson,greg.jackson101@example.com,BUSINESS-DEVELOPMENT,6,B.Tech Computer Science,negotiation; excel; salesforce; presentations; lead generation; market research; crm,"Greg Jackson
+Professional summary: Business Development professional with 6 years of experience. Education: B.Tech Computer Science.
+Skills: negotiation, excel, salesforce, presentations, lead generation, market research, crm.
+Experience: Worked on presentations and negotiation projects; delivered 15 initiatives across teams."
+R0102,Arjun Wang,arjun.wang102@example.com,INFORMATION-TECHNOLOGY,5,BA English,git; kafka; linux; aws; sql; airflow; python,"Arjun Wang
+Professional summary: Information Technology professional with 5 years of experience. Education: BA English.
+Skills: git, kafka, linux, aws, sql, airflow, python.
+Experience: Worked on python and airflow projects; delivered 7 initiatives across teams."
+R0103,Lakisha Robinson,lakisha.robinson103@example.com,INFORMATION-TECHNOLOGY,8,B.E. Electronics,airflow; kafka; git; linux,"Lakisha Robinson
+Professional summary: Information Technology professional with 8 years of experience. Education: B.E. Electronics.
+Skills: airflow, kafka, git, linux.
+Experience: Worked on git and kafka projects; delivered 7 initiatives across teams."
+R0104,Brad Kelly,brad.kelly104@example.com,ACCOUNTANT,14,M.Sc Data Science,audit; excel; gaap; reconciliation,"Brad Kelly
+Professional summary: Accountant professional with 14 years of experience. Education: M.Sc Data Science.
+Skills: audit, excel, gaap, reconciliation.
+Experience: Worked on excel and audit projects; delivered 4 initiatives across teams."
+R0105,Hannah Cohen,hannah.cohen105@example.com,INFORMATION-TECHNOLOGY,7,BA English,git; spark; sql; linux; etl,"Hannah Cohen
+Professional summary: Information Technology professional with 7 years of experience. Education: BA English.
+Skills: git, spark, sql, linux, etl.
+Experience: Worked on etl and etl projects; delivered 7 initiatives across teams."
+R0106,Fatima Cohen,fatima.cohen106@example.com,ACCOUNTANT,12,B.Tech Computer Science,reconciliation; tax filing; gaap; excel; accounts payable; tally,"Fatima Cohen
+Professional summary: Accountant professional with 12 years of experience. Education: B.Tech Computer Science.
+Skills: reconciliation, tax filing, gaap, excel, accounts payable, tally.
+Experience: Worked on gaap and accounts payable projects; delivered 3 initiatives across teams."
+R0107,Wei Lopez,wei.lopez107@example.com,INFORMATION-TECHNOLOGY,9,B.Com,python; data modeling; docker; aws; sql; git; linux,"Wei Lopez
+Professional summary: Information Technology professional with 9 years of experience. Education: B.Com.
+Skills: python, data modeling, docker, aws, sql, git, linux.
+Experience: Worked on aws and sql projects; delivered 10 initiatives across teams."
+R0108,Anjali Jones,anjali.jones108@example.com,DESIGNER,0,MBA,figma; ux research; photoshop; prototyping; typography; illustrator,"Anjali Jones
+Professional summary: Designer professional with 0 years of experience. Education: MBA.
+Skills: figma, ux research, photoshop, prototyping, typography, illustrator.
+Experience: Worked on illustrator and figma projects; delivered 10 initiatives across teams."
+R0109,Wei Iyer,wei.iyer109@example.com,HR,8,MBA,onboarding; employee relations; hris; payroll,"Wei Iyer
+Professional summary: Hr professional with 8 years of experience. Education: MBA.
+Skills: onboarding, employee relations, hris, payroll.
+Experience: Worked on hris and hris projects; delivered 8 initiatives across teams."
+R0110,Mateo Robinson,mateo.robinson110@example.com,INFORMATION-TECHNOLOGY,1,B.E. Electronics,linux; git; python; docker; sql; spark,"Mateo Robinson
+Professional summary: Information Technology professional with 1 years of experience. Education: B.E. Electronics.
+Skills: linux, git, python, docker, sql, spark.
+Experience: Worked on python and spark projects; delivered 15 initiatives across teams."
+R0111,Tamika Sharma,tamika.sharma111@example.com,HR,4,B.Sc Information Technology,onboarding; payroll; recruiting; hris; employee relations; talent acquisition,"Tamika Sharma
+Professional summary: Hr professional with 4 years of experience. Education: B.Sc Information Technology.
+Skills: onboarding, payroll, recruiting, hris, employee relations, talent acquisition.
+Experience: Worked on recruiting and employee relations projects; delivered 8 initiatives across teams."
+R0112,Brad Walsh,brad.walsh112@example.com,HR,8,MBA,onboarding; hris; recruiting; payroll; talent acquisition,"Brad Walsh
+Professional summary: Hr professional with 8 years of experience. Education: MBA.
+Skills: onboarding, hris, recruiting, payroll, talent acquisition.
+Experience: Worked on recruiting and hris projects; delivered 5 initiatives across teams."
+R0113,Mateo Lopez,mateo.lopez113@example.com,INFORMATION-TECHNOLOGY,8,B.Tech Computer Science,airflow; data modeling; spark; git; sql; pandas; python,"Mateo Lopez
+Professional summary: Information Technology professional with 8 years of experience. Education: B.Tech Computer Science.
+Skills: airflow, data modeling, spark, git, sql, pandas, python.
+Experience: Worked on pandas and spark projects; delivered 14 initiatives across teams."
+R0114,Darnell Kelly,darnell.kelly114@example.com,HR,0,MCA,employee relations; onboarding; hris; recruiting; payroll; talent acquisition,"Darnell Kelly
+Professional summary: Hr professional with 0 years of experience. Education: MCA.
+Skills: employee relations, onboarding, hris, recruiting, payroll, talent acquisition.
+Experience: Worked on recruiting and payroll projects; delivered 6 initiatives across teams."
+R0115,Hannah Patel,hannah.patel115@example.com,ACCOUNTANT,10,BA English,reconciliation; audit; accounts payable; tally; excel; gaap; tax filing,"Hannah Patel
+Professional summary: Accountant professional with 10 years of experience. Education: BA English.
+Skills: reconciliation, audit, accounts payable, tally, excel, gaap, tax filing.
+Experience: Worked on tax filing and accounts payable projects; delivered 14 initiatives across teams."
+R0116,Brad Silva,brad.silva116@example.com,INFORMATION-TECHNOLOGY,13,B.Sc Information Technology,kafka; spark; airflow; linux; aws; python; docker; git,"Brad Silva
+Professional summary: Information Technology professional with 13 years of experience. Education: B.Sc Information Technology.
+Skills: kafka, spark, airflow, linux, aws, python, docker, git.
+Experience: Worked on spark and aws projects; delivered 3 initiatives across teams."
+R0117,Anjali Kelly,anjali.kelly117@example.com,ACCOUNTANT,13,B.Tech Computer Science,tax filing; audit; reconciliation; accounts payable; gaap; tally,"Anjali Kelly
+Professional summary: Accountant professional with 13 years of experience. Education: B.Tech Computer Science.
+Skills: tax filing, audit, reconciliation, accounts payable, gaap, tally.
+Experience: Worked on accounts payable and tax filing projects; delivered 8 initiatives across teams."
+R0118,Jamal Miller,jamal.miller118@example.com,BUSINESS-DEVELOPMENT,5,M.Sc Data Science,salesforce; crm; lead generation; negotiation; presentations,"Jamal Miller
+Professional summary: Business Development professional with 5 years of experience. Education: M.Sc Data Science.
+Skills: salesforce, crm, lead generation, negotiation, presentations.
+Experience: Worked on crm and salesforce projects; delivered 6 initiatives across teams."
+R0119,Lakisha Walsh,lakisha.walsh119@example.com,DESIGNER,14,B.E. Electronics,illustrator; photoshop; ux research; prototyping; figma,"Lakisha Walsh
+Professional summary: Designer professional with 14 years of experience. Education: B.E. Electronics.
+Skills: illustrator, photoshop, ux research, prototyping, figma.
+Experience: Worked on photoshop and photoshop projects; delivered 10 initiatives across teams."
+R0120,Greg Garcia,greg.garcia120@example.com,DESIGNER,1,B.Com,prototyping; ux research; figma; photoshop; illustrator; typography,"Greg Garcia
+Professional summary: Designer professional with 1 years of experience. Education: B.Com.
+Skills: prototyping, ux research, figma, photoshop, illustrator, typography.
+Experience: Worked on typography and illustrator projects; delivered 9 initiatives across teams."
+R0121,Darnell Walsh,darnell.walsh121@example.com,INFORMATION-TECHNOLOGY,4,MBA,git; pandas; python; linux; airflow; docker; sql,"Darnell Walsh
+Professional summary: Information Technology professional with 4 years of experience. Education: MBA.
+Skills: git, pandas, python, linux, airflow, docker, sql.
+Experience: Worked on pandas and airflow projects; delivered 8 initiatives across teams."
+R0122,Sofia Lopez,sofia.lopez122@example.com,INFORMATION-TECHNOLOGY,8,B.Tech Computer Science,pandas; docker; sql; data modeling,"Sofia Lopez
+Professional summary: Information Technology professional with 8 years of experience. Education: B.Tech Computer Science.
+Skills: pandas, docker, sql, data modeling.
+Experience: Worked on data modeling and data modeling projects; delivered 2 initiatives across teams."
+R0123,Jamal Cohen,jamal.cohen123@example.com,HR,3,MBA,payroll; recruiting; talent acquisition; hris; onboarding,"Jamal Cohen
+Professional summary: Hr professional with 3 years of experience. Education: MBA.
+Skills: payroll, recruiting, talent acquisition, hris, onboarding.
+Experience: Worked on recruiting and payroll projects; delivered 7 initiatives across teams."
+R0124,Priya Washington,priya.washington124@example.com,BUSINESS-DEVELOPMENT,2,BA English,excel; presentations; salesforce; market research; lead generation,"Priya Washington
+Professional summary: Business Development professional with 2 years of experience. Education: BA English.
+Skills: excel, presentations, salesforce, market research, lead generation.
+Experience: Worked on excel and salesforce projects; delivered 5 initiatives across teams."
+R0125,Mateo Nair,mateo.nair125@example.com,INFORMATION-TECHNOLOGY,13,B.E. Electronics,python; docker; aws; pandas; kafka,"Mateo Nair
+Professional summary: Information Technology professional with 13 years of experience. Education: B.E. Electronics.
+Skills: python, docker, aws, pandas, kafka.
+Experience: Worked on python and docker projects; delivered 6 initiatives across teams."
+R0126,Brad Jackson,brad.jackson126@example.com,INFORMATION-TECHNOLOGY,12,B.Com,linux; docker; aws; sql,"Brad Jackson
+Professional summary: Information Technology professional with 12 years of experience. Education: B.Com.
+Skills: linux, docker, aws, sql.
+Experience: Worked on sql and sql projects; delivered 7 initiatives across teams."
+R0127,Lakisha Jackson,lakisha.jackson127@example.com,DESIGNER,12,B.Sc Information Technology,illustrator; ux research; typography; prototyping; photoshop,"Lakisha Jackson
+Professional summary: Designer professional with 12 years of experience. Education: B.Sc Information Technology.
+Skills: illustrator, ux research, typography, prototyping, photoshop.
+Experience: Worked on prototyping and photoshop projects; delivered 15 initiatives across teams."
+R0128,Wei Jackson,wei.jackson128@example.com,INFORMATION-TECHNOLOGY,7,M.Sc Data Science,docker; sql; linux; data modeling; aws; spark,"Wei Jackson
+Professional summary: Information Technology professional with 7 years of experience. Education: M.Sc Data Science.
+Skills: docker, sql, linux, data modeling, aws, spark.
+Experience: Worked on spark and data modeling projects; delivered 7 initiatives across teams."
+R0129,Sofia Iyer,sofia.iyer129@example.com,BUSINESS-DEVELOPMENT,5,B.Tech Computer Science,market research; salesforce; lead generation; crm; presentations; negotiation,"Sofia Iyer
+Professional summary: Business Development professional with 5 years of experience. Education: B.Tech Computer Science.
+Skills: market research, salesforce, lead generation, crm, presentations, negotiation.
+Experience: Worked on salesforce and presentations projects; delivered 12 initiatives across teams."
+R0130,Tamika Cohen,tamika.cohen130@example.com,ACCOUNTANT,5,B.Tech Computer Science,reconciliation; gaap; accounts payable; tally,"Tamika Cohen
+Professional summary: Accountant professional with 5 years of experience. Education: B.Tech Computer Science.
+Skills: reconciliation, gaap, accounts payable, tally.
+Experience: Worked on gaap and tally projects; delivered 7 initiatives across teams."
+R0131,Sarah Khan,sarah.khan131@example.com,INFORMATION-TECHNOLOGY,6,MCA,git; spark; pandas; docker,"Sarah Khan
+Professional summary: Information Technology professional with 6 years of experience. Education: MCA.
+Skills: git, spark, pandas, docker.
+Experience: Worked on git and git projects; delivered 13 initiatives across teams."
+R0132,Omar Nair,omar.nair132@example.com,INFORMATION-TECHNOLOGY,9,MCA,kafka; pandas; sql; aws; linux; docker; airflow; git,"Omar Nair
+Professional summary: Information Technology professional with 9 years of experience. Education: MCA.
+Skills: kafka, pandas, sql, aws, linux, docker, airflow, git.
+Experience: Worked on pandas and sql projects; delivered 15 initiatives across teams."
+R0133,Lakisha Silva,lakisha.silva133@example.com,INFORMATION-TECHNOLOGY,11,B.E. Electronics,data modeling; etl; sql; docker; pandas,"Lakisha Silva
+Professional summary: Information Technology professional with 11 years of experience. Education: B.E. Electronics.
+Skills: data modeling, etl, sql, docker, pandas.
+Experience: Worked on sql and etl projects; delivered 13 initiatives across teams."
+R0134,Priya Garcia,priya.garcia134@example.com,HR,3,BA English,talent acquisition; onboarding; payroll; employee relations; recruiting; hris,"Priya Garcia
+Professional summary: Hr professional with 3 years of experience. Education: BA English.
+Skills: talent acquisition, onboarding, payroll, employee relations, recruiting, hris.
+Experience: Worked on talent acquisition and payroll projects; delivered 10 initiatives across teams."
+R0135,Rohan Lopez,rohan.lopez135@example.com,BUSINESS-DEVELOPMENT,11,B.Com,excel; market research; negotiation; crm; salesforce; presentations; lead generation,"Rohan Lopez
+Professional summary: Business Development professional with 11 years of experience. Education: B.Com.
+Skills: excel, market research, negotiation, crm, salesforce, presentations, lead generation.
+Experience: Worked on lead generation and crm projects; delivered 15 initiatives across teams."
+R0136,Sofia Kelly,sofia.kelly136@example.com,BUSINESS-DEVELOPMENT,10,M.Sc Data Science,lead generation; presentations; crm; salesforce; negotiation,"Sofia Kelly
+Professional summary: Business Development professional with 10 years of experience. Education: M.Sc Data Science.
+Skills: lead generation, presentations, crm, salesforce, negotiation.
+Experience: Worked on negotiation and negotiation projects; delivered 4 initiatives across teams."
+R0137,Omar Iyer,omar.iyer137@example.com,ACCOUNTANT,2,M.Sc Data Science,tax filing; audit; gaap; excel; tally,"Omar Iyer
+Professional summary: Accountant professional with 2 years of experience. Education: M.Sc Data Science.
+Skills: tax filing, audit, gaap, excel, tally.
+Experience: Worked on gaap and audit projects; delivered 7 initiatives across teams."
+R0138,Omar Wang,omar.wang138@example.com,DESIGNER,10,B.Sc Information Technology,typography; figma; illustrator; prototyping; photoshop; ux research,"Omar Wang
+Professional summary: Designer professional with 10 years of experience. Education: B.Sc Information Technology.
+Skills: typography, figma, illustrator, prototyping, photoshop, ux research.
+Experience: Worked on photoshop and ux research projects; delivered 4 initiatives across teams."
+R0139,Emily Washington,emily.washington139@example.com,BUSINESS-DEVELOPMENT,0,B.Tech Computer Science,negotiation; presentations; market research; lead generation; salesforce,"Emily Washington
+Professional summary: Business Development professional with 0 years of experience. Education: B.Tech Computer Science.
+Skills: negotiation, presentations, market research, lead generation, salesforce.
+Experience: Worked on salesforce and market research projects; delivered 12 initiatives across teams."
+R0140,Tamika Hassan,tamika.hassan140@example.com,INFORMATION-TECHNOLOGY,3,BA English,kafka; git; python; etl; aws; docker; spark; airflow,"Tamika Hassan
+Professional summary: Information Technology professional with 3 years of experience. Education: BA English.
+Skills: kafka, git, python, etl, aws, docker, spark, airflow.
+Experience: Worked on git and kafka projects; delivered 4 initiatives across teams."
+R0141,Priya Kelly,priya.kelly141@example.com,BUSINESS-DEVELOPMENT,6,B.Sc Information Technology,salesforce; negotiation; lead generation; presentations; excel; market research; crm,"Priya Kelly
+Professional summary: Business Development professional with 6 years of experience. Education: B.Sc Information Technology.
+Skills: salesforce, negotiation, lead generation, presentations, excel, market research, crm.
+Experience: Worked on lead generation and negotiation projects; delivered 9 initiatives across teams."
+R0142,Carlos Iyer,carlos.iyer142@example.com,INFORMATION-TECHNOLOGY,6,MBA,airflow; spark; sql; python; aws; data modeling; etl,"Carlos Iyer
+Professional summary: Information Technology professional with 6 years of experience. Education: MBA.
+Skills: airflow, spark, sql, python, aws, data modeling, etl.
+Experience: Worked on aws and data modeling projects; delivered 7 initiatives across teams."
+R0143,Emily Washington,emily.washington143@example.com,INFORMATION-TECHNOLOGY,7,B.Com,etl; pandas; data modeling; git; aws,"Emily Washington
+Professional summary: Information Technology professional with 7 years of experience. Education: B.Com.
+Skills: etl, pandas, data modeling, git, aws.
+Experience: Worked on aws and git projects; delivered 5 initiatives across teams."
+R0144,Emily Jones,emily.jones144@example.com,INFORMATION-TECHNOLOGY,8,B.Com,python; data modeling; aws; etl; pandas; spark,"Emily Jones
+Professional summary: Information Technology professional with 8 years of experience. Education: B.Com.
+Skills: python, data modeling, aws, etl, pandas, spark.
+Experience: Worked on data modeling and aws projects; delivered 13 initiatives across teams."
+R0145,Lakisha Robinson,lakisha.robinson145@example.com,INFORMATION-TECHNOLOGY,4,BA English,docker; python; kafka; linux; airflow; spark; aws,"Lakisha Robinson
+Professional summary: Information Technology professional with 4 years of experience. Education: BA English.
+Skills: docker, python, kafka, linux, airflow, spark, aws.
+Experience: Worked on aws and airflow projects; delivered 6 initiatives across teams."
+R0146,Sarah Silva,sarah.silva146@example.com,ACCOUNTANT,12,MBA,reconciliation; gaap; tax filing; tally,"Sarah Silva
+Professional summary: Accountant professional with 12 years of experience. Education: MBA.
+Skills: reconciliation, gaap, tax filing, tally.
+Experience: Worked on gaap and gaap projects; delivered 11 initiatives across teams."
+R0147,Rohan Lopez,rohan.lopez147@example.com,BUSINESS-DEVELOPMENT,12,BA English,crm; excel; negotiation; lead generation,"Rohan Lopez
+Professional summary: Business Development professional with 12 years of experience. Education: BA English.
+Skills: crm, excel, negotiation, lead generation.
+Experience: Worked on excel and excel projects; delivered 7 initiatives across teams."
+R0148,Sofia Silva,sofia.silva148@example.com,DESIGNER,8,BA English,photoshop; ux research; typography; prototyping; illustrator,"Sofia Silva
+Professional summary: Designer professional with 8 years of experience. Education: BA English.
+Skills: photoshop, ux research, typography, prototyping, illustrator.
+Experience: Worked on illustrator and typography projects; delivered 9 initiatives across teams."
+R0149,Emily Wang,emily.wang149@example.com,ACCOUNTANT,12,BA English,tally; excel; gaap; tax filing; accounts payable; reconciliation,"Emily Wang
+Professional summary: Accountant professional with 12 years of experience. Education: BA English.
+Skills: tally, excel, gaap, tax filing, accounts payable, reconciliation.
+Experience: Worked on gaap and reconciliation projects; delivered 14 initiatives across teams."
+R0150,Wei Robinson,wei.robinson150@example.com,DESIGNER,8,M.Sc Data Science,prototyping; photoshop; figma; typography; illustrator; ux research,"Wei Robinson
+Professional summary: Designer professional with 8 years of experience. Education: M.Sc Data Science.
+Skills: prototyping, photoshop, figma, typography, illustrator, ux research.
+Experience: Worked on ux research and photoshop projects; delivered 2 initiatives across teams."
