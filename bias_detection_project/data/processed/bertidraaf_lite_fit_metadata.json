@@ -1,0 +1,7 @@
+{
+  "n_docs": 77068,
+  "oov_weight": 4.405866428179339,
+  "token_median_idf": 4.405866428179339,
+  "oov_explicit": false,
+  "weight_mode": "idf"
+}
