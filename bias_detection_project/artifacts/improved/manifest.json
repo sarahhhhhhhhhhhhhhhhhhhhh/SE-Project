@@ -1,0 +1,66 @@
+{
+  "format_version": 1,
+  "model_kind": "improved",
+  "model_name": "distilbert-base-uncased",
+  "weight_mode": "parity",
+  "common_kwargs": {
+    "epochs": 6,
+    "fine_tune": true,
+    "faircv_targets": [
+      "score_blind",
+      "score_biased_gender",
+      "score_biased_ethnicity"
+    ],
+    "time_budget_minutes": 20,
+    "seed": 42,
+    "faircv_thresholds": {
+      "score_blind": 0.41373492308688775,
+      "score_biased_gender": 0.3657409924542915,
+      "score_biased_ethnicity": 0.41459000863786377
+    }
+  },
+  "classes": [
+    "ACCOUNTANT",
+    "ADVOCATE",
+    "AGRICULTURE",
+    "APPAREL",
+    "ARTS",
+    "AUTOMOBILE",
+    "AVIATION",
+    "BANKING",
+    "BPO",
+    "BUSINESS-DEVELOPMENT",
+    "CHEF",
+    "CONSTRUCTION",
+    "CONSULTANT",
+    "DESIGNER",
+    "DIGITAL-MEDIA",
+    "ENGINEERING",
+    "FINANCE",
+    "FITNESS",
+    "HEALTHCARE",
+    "HR",
+    "INFORMATION-TECHNOLOGY",
+    "PUBLIC-RELATIONS",
+    "SALES",
+    "TEACHER"
+  ],
+  "faircv_targets": [
+    "score_blind",
+    "score_biased_gender",
+    "score_biased_ethnicity"
+  ],
+  "thresholds": {
+    "score_blind": 0.41373492308688775,
+    "score_biased_gender": 0.3657409924542915,
+    "score_biased_ethnicity": 0.41459000863786377
+  },
+  "decision_thresholds": {},
+  "oov_weight": 1.0,
+  "fine_tune": true,
+  "head_hidden_size": 768,
+  "gate_hidden": 128,
+  "dropout": 0.1,
+  "faircv_aux_reg": false,
+  "text_col": "counterfactual_text"
+}

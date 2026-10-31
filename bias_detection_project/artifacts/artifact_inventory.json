@@ -1,0 +1,23 @@
+{
+  "project": "bias_detection_project",
+  "artifact_version": 1,
+  "models": {
+    "baseline": {
+      "available": true,
+      "artifact_path": "/content/drive/MyDrive/bias_detection_project/artifacts/baseline",
+      "prediction_csv": "/content/drive/MyDrive/bias_detection_project/data/processed/baseline_predictions.csv"
+    },
+    "improved": {
+      "available": true,
+      "artifact_path": "/content/drive/MyDrive/bias_detection_project/artifacts/improved",
+      "prediction_csv": "/content/drive/MyDrive/bias_detection_project/data/processed/improved_predictions.csv"
+    },
+    "bertidraaf_lite": {
+      "available": true,
+      "artifact_path": "/content/drive/MyDrive/bias_detection_project/artifacts/bertidraaf_lite",
+      "prediction_csv": "/content/drive/MyDrive/bias_detection_project/data/processed/bertidraaf_lite_predictions.csv"
+    }
+  },
+  "locked_kaggle_sha256": "5bb028c95b11fec6b1c6e04d0d4051f2dd258b22e2ac5a88e6c42a7d573f5da5",
+  "application_inference": true
+}
